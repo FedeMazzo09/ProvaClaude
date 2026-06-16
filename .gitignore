@@ -4,3 +4,26 @@ CLAUDE.local.md
 node_modules/
 .next/
 prisma/dev.db
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE / editor state
+.vs/
+.vscode/
+.idea/
+*.suo
+
+# Claude Code local settings
+.claude/
+
+# Playwright MCP session artifacts
+.playwright-mcp/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test output
+coverage/
