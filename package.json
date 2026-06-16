@@ -1,0 +1,23 @@
+{
+  "name": "provaclaude",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "echo setup",
+    "dev:daemon": "echo running"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedeMazzo09/ProvaClaude.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FedeMazzo09/ProvaClaude/issues"
+  },
+  "homepage": "https://github.com/FedeMazzo09/ProvaClaude#readme"
+}
