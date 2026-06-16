@@ -382,7 +382,7 @@ export default Counter;`;
       case "card":
         return '      <div className="p-6">';
       default:
-        return "  const increment = () => setCount(count + 1);";
+        return "  const increment = () => {\n    setCount(count + 1);\n  };";
     }
   }
 
